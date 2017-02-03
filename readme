@@ -1,0 +1,17 @@
+we originally worked with the nasflask v1, but soon found it did not work well.
+
+DOing web requests with the arduino native environment was not ideal.
+
+The solution we later found in v2 was that the webhook method worked well.
+
+I built the webhook credentials into ISS.json and me.json.
+
+Me.json was the crecdentials for the IP address gps location API
+meanwhile, the ISS.json was the credentials for the ISS api.
+
+Just wanted to make sure you knew what you were looking at.
+
+
+Cheers!
+
+Hugh

@@ -1,0 +1,11 @@
+{
+  "event": "my_location",
+  "url": "http://ip-api.com/json",
+  "requestType": "GET",
+  "headers": null,
+  "query": null,
+  "responseTemplate": "{{lat}}~{{lon}}",
+  "json": null,
+  "auth": null,
+  "mydevices": true
+}

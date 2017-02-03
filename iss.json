@@ -1,0 +1,11 @@
+{
+  "event": "ISS_Location",
+  "url": "http://api.open-notify.org/iss-now.json",
+  "requestType": "GET",
+  "headers": null,
+  "query": null,
+  "responseTemplate": "{{#iss_position}}{{latitude}}~{{longitude}}~{{/iss_position}}~{{timestamp}}~{{message}}",
+  "json": null,
+  "auth": null,
+  "mydevices": true
+}

@@ -1,3 +1,6 @@
+// this is the version we ended up using in the end. Unfortunately, it still doesnt work. 
+
+
 // This #include statement was automatically added by the Particle IDE.
 #include <neopixel.h>
 
